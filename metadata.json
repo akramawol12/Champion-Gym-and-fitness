@@ -1,0 +1,6 @@
+{
+  "name": "Champion Gym & Fitness",
+  "description": "Premium luxury gym website with cinematic design, interactive Before/After sliders, custom program estimators, and membership passes for Kenenisa Ave branch in Addis Ababa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
